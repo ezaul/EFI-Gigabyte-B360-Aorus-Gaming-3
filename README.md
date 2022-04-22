@@ -7,7 +7,7 @@
 
 ### Currently Running On MacOS Monterey 12.3.1 
 
-![](https://imgur.com/nRNr7SF)
+<img src="https://i.imgur.com/nRNr7SF.png" width="594" height="357" />
 
 ## Hardware - Hackintosh Config
 
