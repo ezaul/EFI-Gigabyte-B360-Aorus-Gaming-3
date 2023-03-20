@@ -4,7 +4,7 @@
 # Hackintosh
 # EFI Gigabyte-B360-Aorus-Gaming-3
 
-### Currently Running On MacOS Monterey 12.3.1 
+### Currently Running On MacOS Venture 13.2.1 
 
 <img src="https://i.imgur.com/nRNr7SF.png" width="594" height="357" />
 
@@ -21,7 +21,7 @@
 |                  |                                                  |
 |    **SMBIOS**    | [ MacPro19,2 ]                                   |
 |    **MacOS**     | [ Monterey ]                                     |
-|   **Opencore**   | [ 0.8.0 ]                                        |
+|   **Opencore**   | [ 0.9.0 ]                                        |
 
 
 ## BIOS Setting
