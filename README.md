@@ -4,7 +4,7 @@
 # Hackintosh
 # EFI Gigabyte-B360-Aorus-Gaming-3
 
-### Currently Running On MacOS Ventura 13.2.1 
+### Currently Running On MacOS Ventura 13.3.1 
 
 <img src="https://i.imgur.com/nRNr7SF.png" width="594" height="357" />
 
@@ -21,7 +21,7 @@
 |                  |                                                  |
 |    **SMBIOS**    | [ MacPro19,2 ]                                   |
 |    **MacOS**     | [ Ventura ]                                     |
-|   **Opencore**   | [ 0.9.0 ]                                        |
+|   **Opencore**   | [ 0.9.2 ]                                        |
 
 
 ## BIOS Setting
