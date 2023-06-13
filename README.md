@@ -6,7 +6,7 @@
 
 ### Currently Running On MacOS Ventura 13.4.0 
 
-<img src="https://i.imgur.com/nRNr7SF.png" width="594" height="357" />
+<img src="https://i.imgur.com/4qV4dZG.png" width="311" height="572" />
 
 ## Hardware - Hackintosh Config
 
