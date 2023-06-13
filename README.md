@@ -4,7 +4,7 @@
 # Hackintosh
 # EFI Gigabyte-B360-Aorus-Gaming-3
 
-### Currently Running On MacOS Ventura 13.3.1 
+### Currently Running On MacOS Ventura 13.4.0 
 
 <img src="https://i.imgur.com/nRNr7SF.png" width="594" height="357" />
 
@@ -20,8 +20,8 @@
 | **Power Supply** | [ Asus ROG-THOR-1200P, 1200W, 80 Plus Platinum ] |
 |                  |                                                  |
 |    **SMBIOS**    | [ MacPro19,2 ]                                   |
-|    **MacOS**     | [ Ventura ]                                     |
-|   **Opencore**   | [ 0.9.2 ]                                        |
+|    **MacOS**     | [ Ventura ]                                      |
+|   **Opencore**   | [ 0.9.3 ]                                        |
 
 
 ## BIOS Setting
